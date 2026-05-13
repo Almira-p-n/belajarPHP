@@ -7,11 +7,9 @@
 </head>
 <body>
     <?php 
-        echo "Halo Dunia!";
-    ?>
-    
-    <?php
-        echo "<br> Belajar PHP bersama";
+        $angka = 12;
+        echo "Ini angka: $angka";
+        echo "<br/> Belajar PHP bersama";
     ?>
 </body>
 </html>
